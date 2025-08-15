@@ -2,9 +2,6 @@
 
 [![Release](https://img.shields.io/badge/release-v1.0.0-blue)](https://github.com/ilfijandrisno/Transaction-Analytics-Dashboard/releases) [![Python](https://img.shields.io/badge/python-3.13%2B-blue?logo=python)](https://www.python.org/) [![Streamlit](https://img.shields.io/badge/Streamlit-1.45.1-FF4B4B?logo=streamlit)](https://streamlit.io/) [![Plotly](https://img.shields.io/badge/Plotly-6.3.0-3F4F75?logo=plotly)](https://plotly.com/python/) ![Last Commit](https://img.shields.io/github/last-commit/ilfijandrisno/Transaction-Analytics-Dashboard)  ![Repo Size](https://img.shields.io/github/repo-size/ilfijandrisno/Transaction-Analytics-Dashboard) ![Stars](https://img.shields.io/github/stars/ilfijandrisno/Transaction-Analytics-Dashboard?style=social)
 
-<img src="assets/0.Filter_Overview.png" alt="Dashboard Preview" width="300"> <img src="assets/2.BussinessMix.png" alt="Dashboard Preview" width="300"> <img src="assets/3.Reliability.png" alt="Dashboard Preview" width="300">
-
-
 ## 📌 Deskripsi
 **Transaction Analytics Dashboard** adalah aplikasi interaktif berbasis **[Streamlit](https://streamlit.io/)** yang dirancang untuk memantau dan menganalisis data transaksi dari berbagai kategori produk/layanan, channel distribusi, dan wilayah pemasaran.
 
